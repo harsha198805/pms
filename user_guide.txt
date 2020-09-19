@@ -1,0 +1,19 @@
+promotion managment system user guide
+
+*****project_path*****
+http://localhost/pms_harsha/
+
+********mysql database name*****
+promotion_manage_system
+
+
+
+********System Administrator Account**********
+
+email : admin@example.com
+password : codeinsect
+
+**********User Account************
+
+email : harsha@gmail.com
+password : 123
